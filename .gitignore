@@ -1,0 +1,4 @@
+*.pyc
+video/.DS_Store
+*.mp4
+*.mov
